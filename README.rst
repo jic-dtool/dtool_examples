@@ -33,4 +33,4 @@ A more complex processing example (requires bowtie2)::
 
     bash bowtie2_align.sh Escherichia-coli-reads-ERR022075-minified Escherichia-coli-ref-genome ./
 
-The above generates the dataset ``bash create_ecoli_reads_dataset.sh``.
+The above generates the dataset ``Escherichia-coli-reads-ERR022075-minified-bowtie2-align``.
